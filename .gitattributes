@@ -1,0 +1,10 @@
+TenserFlow/workspace/training_demo/exported-models/my_model/saved_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+TenserFlow/workspace/training_demo/models/my_ssd_resnet50_v1_fpn/ckpt-1.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+TenserFlow/workspace/training_demo/models/my_ssd_resnet50_v1_fpn/ckpt-2.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+TenserFlow/workspace/training_demo/pre-trained-models/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8/saved_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+TenserFlow/workspace/training_demo/exported-models/my_model/checkpoint/ckpt-0.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+files/ssd_resnet101_v1_fpn_640x640_coco17_tpu-8/checkpoint/ckpt-0.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+files/ssd_resnet101_v1_fpn_640x640_coco17_tpu-8/saved_model/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+TenserFlow/.venv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
+TenserFlow/.venv/Lib/site-packages/clang/native/libclang.dll filter=lfs diff=lfs merge=lfs -text
+TenserFlow/workspace/training_demo/pre-trained-models/ssd_resnet50_v1_fpn_640x640_coco17_tpu-8/checkpoint/ckpt-0.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
